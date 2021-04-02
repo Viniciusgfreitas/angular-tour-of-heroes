@@ -1,14 +1,14 @@
 import { Hero } from './hero';
 
 export const HEROES: Hero[] = [
-    { id: 11, name: 'Dr Nice'   },
-    { id: 12, name: 'Narco'     },
-    { id: 13, name: 'Bombasto'  },
-    { id: 14, name: 'Celeritas' },
-    { id: 15, name: 'Magneta'   },
-    { id: 16, name: 'RubberMan' },
-    { id: 17, name: 'Dynama'    },
-    { id: 18, name: 'Dr IQ'     },
-    { id: 19, name: 'Magma'     },
-    { id: 20, name: 'Tornado'   },
+    { id: 1,  name: 'Enji Todoroki',    name_hero: 'Endeavor',     individually: 'Hellflame'                     },
+    { id: 2,  name: 'Takami Keigo',     name_hero: 'Hawks',        individually: 'Fierce Wings'                  },
+    { id: 3,  name: 'Tsunagu Hamakata', name_hero: 'Best Jeanist', individually: 'Fiber Master'                  },
+    { id: 4,  name: 'Shinya Kamihara',  name_hero: 'Edgeshot',     individually: 'Foldabody'                     },
+    { id: 5,  name: 'Usagiyama Rumi',   name_hero: 'Mirko',        individually: 'Rabbit'                        },
+    { id: 6,  name: 'Desconhecido',     name_hero: 'Crust',        individually: 'Shield'                        },
+    { id: 7,  name: 'Shinji Nishiya',   name_hero: 'Kamui Woods',  individually: 'Arbor'                         },
+    { id: 8,  name: 'Desconhecido',     name_hero: 'Wash',         individually: 'Relacionada a água (sem nome)' },
+    { id: 9,  name: 'Yoroi Musha',      name_hero: 'Yoroi Musha',  individually: 'Desconhecida'                  },
+    { id: 10, name: 'Ryuko Tatsuma',    name_hero: 'Ryuku',        individually: 'Dragon'                        },
 ];
